@@ -1,4 +1,4 @@
-#!c:\pyfolders\django-multisite\scripts\python.exe
+#!C:\pyfolders\Django-multisite\Scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
